@@ -1,0 +1,9 @@
+db:
+  ds: 'DBI:mysql:seo'
+  user: 'mysql_name'
+  password: 'mysql_password'
+user_agent: "your_user_agent"
+domains:
+  - 'your.domain1.sample.com'
+  - 'your.domain1.sample.com'
+  - 'your.domain1.sample.com'
